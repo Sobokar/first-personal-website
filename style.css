@@ -73,6 +73,7 @@ p {
   text-transform: capitalize;
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
+  cursor: auto;
 }
 
 .email-link {
